@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aakashanand560@gmail.com**
 
-- 📄 Know about my experiences [1+ years](1+ years)
+- 📄 Know about my experiences [1+ years]
 
 - ⚡ Fun fact **I am funny with people I like**
 

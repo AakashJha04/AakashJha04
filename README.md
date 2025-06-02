@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Flask Microservices**
 
-- 🌱 I’m currently learning **System design, advance algorithms & devops**
+- 🌱 I’m currently learning **ML/AI**
 
 - 👯 I’m looking to collaborate on **Full Stack Java development**
 
